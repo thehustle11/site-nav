@@ -1,0 +1,13 @@
+
+li {
+  padding-right: .6rem;
+}
+
+header li:first-child {
+  margin-left: 2rem;
+}
+
+
+html body {
+  background-color: #111;
+}
